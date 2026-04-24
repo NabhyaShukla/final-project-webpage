@@ -1,18 +1,18 @@
 body{
     margin: 0;
     font-family: "Baloo Tamma 2", arial, sans-serif;
-    background: linear-gradient(90deg, black, rgb(32, 31, 12))
+    background: linear-gradient(90deg, black, rgb(26, 25, 9))
 }
 
 .navigation{
     background: #2c2c2c;
     border-top: 3px solid #916601;
-    padding: 12px 40px !important;
+    padding: 15px 40px !important;
 
 }
 
 .brand-logo{
-    height:28px;
+    height: 28px;
     width: auto;
 
 }
